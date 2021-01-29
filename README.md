@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Kevin 👋
 
 <!--
 **Klay4/Klay4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 📫 How to reach me:
+  - [Sito Personale](https://klay4.xyz)
+  - Canale Youtube [![Canale Youtube Klay4](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Klay4)
+  - Canale Twitch [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/klay4_)
+  
+ 
+  
+## ⚡ Progetti attuali
+  - Free [TeamSpeak](https://teamspeak.com) Server Hosting
+  
+## 🌱 I’m currently learning:
+  - [Docker](https://www.docker.com/get-started)
+
+## 📈 Profile Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Klay4)
