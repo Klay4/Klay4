@@ -24,10 +24,12 @@ Here are some ideas to get you started:
  
   
 ## 🔭 I’m currently working on
-  - Free [TeamSpeak](https://teamspeak.com) Server Hosting
-  
+  - Making a [ServerHosting](https://host.klay4.xyz/)
+  - Be a validator node for [Desmos](https://www.desmos.network/)
+ 
 ## 🌱 I’m currently learning:
   - [Docker](https://www.docker.com/get-started)
+  - Dart and Flutter
 
 ## 📈 Profile Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Klay4)  
