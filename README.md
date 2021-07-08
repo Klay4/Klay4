@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   
 ## 🔭 I’m currently working on
   - Making a [ServerHosting](https://host.klay4.xyz/)
-  - Be a validator node for [Desmos](https://www.desmos.network/)
  
 ## 🌱 I’m currently learning:
   - [Docker](https://www.docker.com/get-started)
