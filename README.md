@@ -24,11 +24,11 @@ Here are some ideas to get you started:
  
   
 ## 🔭 I’m currently working on
-  - Making a [ServerHosting](https://host.klay4.xyz/)
+  - Making a [ServerHosting](https://www.klayhosting.com)
  
 ## 🌱 I’m currently learning:
   - [Docker](https://www.docker.com/get-started)
-  - Dart and Flutter
+  - [ReactJs](https://reactjs.org)
 
 ## 📈 Profile Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Klay4)  
