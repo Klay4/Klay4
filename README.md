@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   - Making a [ServerHosting](https://www.klayhosting.com)
  
 ## 🌱 I’m currently learning:
-  - [Docker](https://www.docker.com/get-started)
+  - [Docker](https://www.docker.com)
   - [ReactJs](https://reactjs.org)
 
 ## 📈 Profile Stats
