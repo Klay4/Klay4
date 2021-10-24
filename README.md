@@ -38,14 +38,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" width="396" /> 
 </p>
 
-<p float="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" width="396" /> 
-</p>
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ![counter](https://enbscto7kr4fuh1.m.pipedream.net)
