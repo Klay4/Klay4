@@ -1,31 +1,16 @@
 ## Hi, I'm Kevin 👋
 
-<!--
-**Klay4/Klay4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## 📫 How to reach me:
   - [Website](https://kevinazemi.xyz)
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
 ## 🔭 I’m currently working on
   - Making a [ServerHosting](https://www.klayhosting.com)
+  - Making a [FiveM Framework](https://github.com/RevolutionRP-base)
+  - Making a Web Application
  
 ## 🌱 I’m currently learning:
-  - [Docker](https://www.docker.com)
-  - [ReactJs](https://reactjs.org)
+  - [ReactJS](https://reactjs.org)
 
 ## 📈 Profile Stats
 <p float="left">
