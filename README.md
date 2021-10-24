@@ -36,19 +36,14 @@ Here are some ideas to get you started:
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="webpointdev" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" />
-    </a>
+     <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="webpointdev" />
+     <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" />
     <br>
-  <br>
+    <br>
     <img src="https://github-profile-trophy.vercel.app/?username=Klay4&theme=monokai"/>
   </div>
 </p>
