@@ -32,5 +32,6 @@ Here are some ideas to get you started:
   - [ReactJs](https://reactjs.org)
 
 ## 📈 Profile Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Klay4)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![counter](https://enbscto7kr4fuh1.m.pipedream.net)
