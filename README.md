@@ -34,19 +34,10 @@ Here are some ideas to get you started:
 ## 📈 Profile Stats
 
 
-<p align=center>
-  <div align=center>
-     <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="webpointdev" />
-     <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" />
-    <br>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Klay4&theme=monokai"/>
-  </div>
-</p>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D)  |  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark)
 
 
 ![counter](https://enbscto7kr4fuh1.m.pipedream.net)
