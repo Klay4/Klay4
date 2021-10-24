@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" width="396" /> 
 </div>
-
-![counter](https://enbscto7kr4fuh1.m.pipedream.net)
