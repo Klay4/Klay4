@@ -47,9 +47,10 @@ Here are some ideas to get you started:
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" />
-    </a>
-  </div>
+    <br>
   <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=Klay4&theme=monokai"/>
+  </div>
 </p>
 
 
