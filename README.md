@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
   - [Website](https://kevinazemi.xyz)
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
-  - Youtube Channel [![Canale Youtube Klay4](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Klay4)
-  - Twitch Channel [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/klay4_)
+  - [![Canale Youtube Klay4](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Klay4)
+  - [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/klay4_)
   
  
   
