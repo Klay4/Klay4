@@ -7,7 +7,7 @@
 ## 🔭 I’m currently working on
   - Making a [ServerHosting](https://www.klayhosting.com)
   - Making a [FiveM Framework](https://github.com/RevolutionRP-base)
-  - Making a Web Application
+  - Making a Web Application (Skole)
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
