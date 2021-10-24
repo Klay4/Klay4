@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ## 📈 Profile Stats
 
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="396" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" width="396" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark" width="396" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" width="396" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klay4&layout=compact&theme=dark" width="396" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="396" />
 </div>
