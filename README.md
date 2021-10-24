@@ -32,6 +32,25 @@ Here are some ideas to get you started:
   - [ReactJs](https://reactjs.org)
 
 ## 📈 Profile Stats
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=4>L1 Name</td>
+            <td rowspan=2>L2 Name A</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td>L3 Name B</td>
+        </tr>
+        <tr>
+            <td rowspan=2>L2 Name B</td>
+            <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark)</td>
+        </tr>
+        <tr>
+            <td>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</td>
+        </tr>
+    </tbody>
+</table>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Klay4&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Klay4&show_icons=true&theme=dark)
 ![counter](https://enbscto7kr4fuh1.m.pipedream.net)
