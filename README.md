@@ -5,9 +5,9 @@
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
 ## 🔭 I’m currently working on
+  - Making a School notes sharing app [Skole](https://github.com/Skole-App)
   - Making a [ServerHosting](https://www.klayhosting.com)
   - Making a [FiveM Framework](https://github.com/RevolutionRP-base)
-  - Making a Web Application (Skole)
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
