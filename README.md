@@ -1,7 +1,7 @@
 ## Hi, I'm Kevin 👋
 
 ## 📫 How to reach me:
-  - [Website](https://kevinazemi.xyz)
+  - [Website](https://kevinazemi.com)
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
 ## 🔭 I’m currently working on
