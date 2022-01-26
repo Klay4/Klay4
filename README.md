@@ -5,13 +5,12 @@
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
 ## 🔭 I’m currently working on
-  - Making a School notes sharing app [Skole](https://github.com/Skole-App)
-  - Making a [ServerHosting](https://www.klayhosting.com)
-  - Making a [FiveM Framework](https://github.com/RevolutionRP-base)
+  - Making a [FiveM Server](https://jediroleplay.com)
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
   - [MongoDB](https://www.mongodb.com)
+  - [Redis](https://redis.io)
 
 ## 📈 Profile Stats
 <p float="left">
