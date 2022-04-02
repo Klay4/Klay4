@@ -5,7 +5,7 @@
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
 ## 🔭 I’m currently working on
-  - Making a [FiveM Server](https://jediroleplay.com)
+  - ~~Making a [FiveM Server](https://jediroleplay.com)~~
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
