@@ -8,6 +8,7 @@
   - ~~Making a [FiveM Server](https://jediroleplay.com)~~
  
 ## 🌱 I’m currently learning:
+  - [Go](https://go.dev)
   - [ReactJS](https://reactjs.org)
   - [MongoDB](https://www.mongodb.com)
   - [Redis](https://redis.io)
