@@ -4,8 +4,10 @@
   - [Website](https://kevinazemi.com)
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
+<!--
 ## 🔭 I’m currently working on
   - ~~Making a [FiveM Server](https://jediroleplay.com)~~
+-->
  
 ## 🌱 I’m currently learning:
   - [Go](https://go.dev)
