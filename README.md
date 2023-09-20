@@ -11,7 +11,7 @@
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
-  - [NextJs](https://go.dev)
+  - [NextJS](https://go.dev)
   - [MongoDB](https://www.mongodb.com)
   - [Redis](https://redis.io)
 
