@@ -10,8 +10,8 @@
 -->
  
 ## 🌱 I’m currently learning:
-  - [Go](https://go.dev)
   - [ReactJS](https://reactjs.org)
+  - [NextJs](https://go.dev)
   - [MongoDB](https://www.mongodb.com)
   - [Redis](https://redis.io)
 
