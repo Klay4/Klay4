@@ -4,10 +4,12 @@
   - [Website](https://kevinazemi.com)
   - [Linkedin](https://www.linkedin.com/in/kevin-azemi)
   
-<!--
-## 🔭 I’m currently working on
-  - ~~Making a [FiveM Server](https://jediroleplay.com)~~
--->
+
+## 🔭 I’m interested in
+  - Servers
+  - Networking
+  - Data Center infrastructure
+  - Cloud
  
 ## 🌱 I’m currently learning:
   - [ReactJS](https://reactjs.org)
